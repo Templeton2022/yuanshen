@@ -1,2 +1,2 @@
 # yuanshen
-是一个能计算升级角色天赋等级所需材料的WebProject
+是一个能计算一个角色升级天赋等级所需材料的WebProject
